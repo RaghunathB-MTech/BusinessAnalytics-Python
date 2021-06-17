@@ -5,6 +5,7 @@ Created on Fri Jun 11 08:53:42 2021
 @author: Raghunath B
 """
 
+#Project: Predict wheteher a person survived or not survived the titanic crash based on various factors
 #Logistic regression
 
 #Loading the dataset
@@ -70,7 +71,7 @@ confusion_matrix(y_test, y_pred)
 import numpy as np
 import statsmodels.api as sm
 x = np.append(arr = np.ones((len(x), 1)).astype(int), values = x, axis = 1)
-def backwardElimination(x, sl):
+def backwardElimination(x, sl): #User-defined function for automatic backward elimination
     numVars = len(x[0])
     for i in range(0, numVars):
         regressor_OLS = sm.OLS(y, x).fit()
