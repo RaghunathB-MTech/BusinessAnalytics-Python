@@ -45,7 +45,7 @@ y_pred = reg.predict(x_test)
 from sklearn.metrics import r2_score
 r2_score(y_test, y_pred)
 
-#Backward elimination
+#Automatic Backward elimination
 import numpy as np
 import statsmodels.api as sm
 x = np.append(arr = np.ones((len(x), 1)).astype(int), values = x, axis = 1)
