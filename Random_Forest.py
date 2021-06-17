@@ -5,7 +5,9 @@ Created on Tue Jun 15 19:40:28 2021
 @author: Raghunath B
 """
 
+#Project: Predict whether a customer will buy a car based on his/her age, gender and Income
 #Random Forest
+
 #Import libraries
 import pandas as pd
 
