@@ -5,6 +5,7 @@ Created on Tue Jun  8 11:24:40 2021
 @author: Raghunath B
 """
 
+#Project: Predict the no. of applications based on the placement rate
 #Simple Linear Regression
 
 #Importing Libraries and dataset
