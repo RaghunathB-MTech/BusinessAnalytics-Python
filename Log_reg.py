@@ -5,6 +5,7 @@ Created on Fri Jun 11 08:53:42 2021
 @author: Raghunath B
 """
 
+#Project: Predict wheteher a person survived or not survived the titanic crash based on various factors
 #Logistic regression
 
 #Loading the dataset
