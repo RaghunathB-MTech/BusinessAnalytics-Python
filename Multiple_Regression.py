@@ -5,6 +5,7 @@ Created on Tue Jun  8 12:51:00 2021
 @author: Raghunath B
 """
 
+#Project: Predict the no. of applications based on the placement rate and no. of students graduating
 # Multiple Linear Regression
 
 #importing the libraries
