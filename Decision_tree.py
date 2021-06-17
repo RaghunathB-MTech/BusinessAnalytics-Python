@@ -5,7 +5,9 @@ Created on Tue Jun 15 18:00:10 2021
 @author: Raghunath B
 """
 
+#Project: Predict whether a customer will buy a car based on his/her age, gender and Income
 #Decision Tree
+
 #Import libraries
 import pandas as pd
 
