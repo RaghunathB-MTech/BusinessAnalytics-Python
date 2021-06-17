@@ -5,6 +5,7 @@ Created on Thu Jun 10 20:18:06 2021
 @author: Raghunath B
 """
 
+#Project: Predict the profit from a startup based on the costs and location
 # Multiple Regression with Backward Elimination
 
 #Importing the dataset
